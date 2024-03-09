@@ -1,6 +1,6 @@
-# memory_calender
+# Memory Calender
 
-A new Flutter project.
+A new Flutter project. To save your beautiful memories tagged to the calender
 
 ## Getting Started
 
